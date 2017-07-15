@@ -237,7 +237,7 @@ void clean() {
 	}
 }
 
-void firstStep()
+void firstStep()// First point
 {
 	for (int i = 1; i < 15; i++) {
 		for (int j = 1; j < 15; j++) {
@@ -274,7 +274,7 @@ void show() {
 }
 
 
-
+// Àlgorithm 
 void loop() {
 
 	for (int i = 1; i < 15; i++) {
